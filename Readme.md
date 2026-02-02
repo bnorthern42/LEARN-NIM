@@ -12,10 +12,11 @@ I’ll post occasional updates, progress, and notes here:
 
 ## Goals
 
-* Learn the Nim language from scratch
+* Learn the Odin language from scratch
 * Build real solutions instead of toy examples
 * Compare Nim’s ergonomics and performance to C++ (Personal Goal)
 * Finish as many AoC 2024 problems as time allows
+* NEVER USE AI
 
 ## Structure
 
